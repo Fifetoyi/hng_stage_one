@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.fifetoyi.hng_stage_one.HngStageOneApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.262 s - in com.fifetoyi.hng_stage_one.HngStageOneApplicationTests

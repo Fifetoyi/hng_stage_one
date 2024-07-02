@@ -1,0 +1,4 @@
+com\fifetoyi\hng_stage_one\HngStageOneApplication.class
+com\fifetoyi\hng_stage_one\service\WeatherService.class
+com\fifetoyi\hng_stage_one\controller\HelloController.class
+com\fifetoyi\hng_stage_one\service\LocationService.class
